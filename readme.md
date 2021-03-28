@@ -1,3 +1,4 @@
 ## Ini untuk workshop
 Belajar apa hari ini?
-* GIT
+* GIT Branching
+* GIT Merging
